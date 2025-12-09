@@ -12,21 +12,21 @@
 
 - **Guided Meditations:** Listen to mindfulness meditations with beautiful illustrations.
 
-<img src="meditations.png" alt="Meditations" width="100"/>
+<img src="meditations.png" alt="Meditations" width="200"/>
 
-<img src="meditation.png" alt="Meditation" width="100"/>
+<img src="meditation.png" alt="Meditation" width="200"/>
 
 - **Sleep Stories:** Relax at night with calming audio tales.
 
-<img src="sleep stories.png" alt="Sleep Stories" width="100"/>
+<img src="sleep stories.png" alt="Sleep Stories" width="200"/>
 
 - **Affirmations/Mantras:** Swipe for fresh, positive mantras anytime.
 
-<img src="mantras.png" alt="Mantras" width="100"/>
+<img src="mantras.png" alt="Mantras" width="200"/>
 
 - **User Profiles:** Sign up, log in, and reset passwords securely via Firebase Authentication.
 
-<img src="account.png" alt="account" width="100"/>
+<img src="account.png" alt="account" width="200"/>
 
 - **Audio Streaming:** Meditations and stories are streamed directly from cloud storage (Firebase Storage).
 - **Cross-Platform:** Works on Android, iOS, and web (with some platform-specific tweaks).
