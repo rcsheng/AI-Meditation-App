@@ -8,6 +8,8 @@
 - User authentication via Firebase
 - Audio streaming from Firebase Storage
 
+<img src="demo.gif" alt="Meditations" width="300"/>
+
 ## Features
 
 - **Guided Meditations:** Listen to mindfulness meditations with beautiful illustrations.
